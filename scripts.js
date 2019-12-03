@@ -5,11 +5,11 @@ var dsClickwrapId = '9e54245b-9960-444e-8287-a1d01e249ffc';
 // replace value below with modal or inline depending on your clickwrap type //
 var clickDisplayType = 'modal';
 // replace logo URL below with your customers logo url.  transparent works best //
-var logoUrl = 'https://www.innov8ive.app/LOGO.png';
+var logoUrl = 'https://www.google.com/url?sa=i&source=imgres&cd=&cad=rja&uact=8&ved=2ahUKEwjYreOkt5nmAhWBShUIHWeiAWUQjRx6BAgBEAQ&url=https%3A%2F%2Fwww.docusign.com%2FIP%2Ftrademark-brand-guide&psig=AOvVaw0JL48WDai7jXbSXM2PwNCz&ust=1575460884982969';
 // replace with your brand hex code.  changes color of header text and button background //
-var fontColor = '#3d00b2';
+var fontColor = '#0558a0';
 // replace with a hex code of your liking.  changes text color on the submit button //
-var buttonTextColor = '#ffffff';
+var buttonTextColor = '#0558a0';
 
 function makeid(length) {
    var result           = '';
